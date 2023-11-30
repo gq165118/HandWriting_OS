@@ -1,0 +1,5 @@
+00001200 T _start
+00001207 T kernel_main
+0000225c R __bss_start
+0000225c R _edata
+0000225c R _end
